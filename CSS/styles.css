@@ -139,26 +139,25 @@
   color: #fff;
 }
 /* Media Queries  */
-/*
 @media screen and (min-width: 1024px) and (max-width: 1440px) {
   .navbar-item {
     font-size: 0.8em;
     margin: 0.2em;
   }
   .jumbotron p {
-    
     color: #fff;
     font-size: 3em;
     line-height: 0.9;
   }
 }
 @media screen and (min-width: 972px) and (max-width: 1024px) {
-  
   .jumbotron p {
-    
     color: #fff;
     font-size: 2.5em;
     line-height: 0.9;
+  }
+  .carousel-item h2 {
+    font-size: 1.5em;
   }
 }
 @media screen and (max-width: 972px) {
@@ -168,15 +167,13 @@
     line-height: 0.9;
   }
 
-  
   .card {
     color: red;
     margin: 2em auto;
     font-size: 0.8em;
   }
-  #testimonial h2 {
-    font-size: 0.2em;
+
+  .carousel-item h2 {
+    font-size: 0.7em;
   }
 }
-
-*/
